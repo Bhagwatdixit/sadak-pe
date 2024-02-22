@@ -6,3 +6,23 @@ button{
     margin: 50px;
     font-size: 50px;
 }
+
+#navbar{
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+    
+}
+#ho{
+    color: rgb(11, 134, 235);
+}
+
+
+#navbar a{
+    text-decoration: none;
+}
+
+#gg{
+ 
+}
+
